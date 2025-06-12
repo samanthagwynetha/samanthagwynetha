@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="devme.webp" alt="Unah's Avatar" style="width: 100%; max-width: 250px; border-radius: 50%; margin-bottom: 10px;">
-  <h1>Hi, I'm Unah 👾</h1>
-  <p>Coding with a curious mind. Living life in parentheses 🧠</p>
+<div style="text-align: center;">
+  <img src="devme.webp" alt="Unaun's Avatar" style="width: 300px; border-radius: 50%; margin-bottom: 10px;">
+  <h1 style="margin-bottom: 20px;">Hi, I'm Unah👾</h1>
+  <p></p>
 </div>
 
 ---
