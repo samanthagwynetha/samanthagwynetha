@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <img src="devme.webp" alt="Unaun's Avatar" style="width: 300px; border-radius: 50%; margin-bottom: 10px;">
   <h1 style="margin-bottom: 20px;">Hi, I'm Unah👾</h1>
   <p></p>
