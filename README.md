@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Unah 👾</h1>
+  <h1>Hi, I'm Samantha 👾</h1>
   <p>Coding with a curious mind. Living life in parentheses 🧠</p>
 </div>
 
