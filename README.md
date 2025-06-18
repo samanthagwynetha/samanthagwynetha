@@ -1,13 +1,14 @@
 <div align="center">
   <h1>Hi, I'm Samantha 👾</h1>
-  <p> Learning by doing. Growing by trying 🌱 </p>
+  <p> Coding with a curious mind. Living life in parentheses 🧠 </p>
 </div>
 
 ---
 
 ## 💫 About Me:
 - 🎓 Passionate about real-world tech and full-stack development  
-- 🧠 Self-taught & driven by curiosity  
+- 🧠 Self-taught & driven by curiosity
+  💬 Learning by doing. Growing by trying  
 
 
 ---
