@@ -8,7 +8,7 @@
 ## 💫 About Me:
 - 🎓 Passionate about real-world tech and full-stack development  
 - 🧠 Self-taught & driven by curiosity
-  💬 Learning by doing. Growing by trying  
+- 💬 Learning by doing. Growing by trying  
 
 
 ---
