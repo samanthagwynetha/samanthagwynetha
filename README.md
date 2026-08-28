@@ -2,7 +2,7 @@
 
   <h1>Hi, I'm Samantha</h1>
 
-  <p><em>Learning through code and real-world problems.</em></p>
+  <p><em>I make things work. Git knows how many attempts it took.</em></p>
 
 </div>
 
