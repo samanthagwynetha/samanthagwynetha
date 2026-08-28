@@ -1,18 +1,14 @@
 <div align="center">
 
-# Hi, I'm Samantha 👾
+# Hi, I'm Samantha 
 
 ### Software Developer · QA Engineer · Full-Stack Developer
-
-I build web and software applications with a focus on **reliable systems, clean user experiences, and practical solutions**. I also work with test automation to improve software quality and catch issues before they reach real users.
-
-I'm interested in **full-stack development, backend systems, QA automation, and building products that solve real problems.**
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 * Software developer with hands-on experience building web and backend applications
 * Build and maintain automated end-to-end tests with **Playwright + TypeScript** using the Page Object Model
@@ -24,7 +20,7 @@ I'm interested in **full-stack development, backend systems, QA automation, and 
 
 ---
 
-## 🌐 Connect With Me:
+## Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samantha.arsua)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gwynthyno)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samanthagwynetha)
@@ -33,7 +29,7 @@ I'm interested in **full-stack development, backend systems, QA automation, and 
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 
@@ -75,16 +71,12 @@ I'm interested in **full-stack development, backend systems, QA automation, and 
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 
-**Practices:** End-to-End Testing · UI Automation · Cross-Browser Testing · Page Object Model · API Testing · Regression Testing · CI/CD Test Integration · Defect Tracking
-
 ### DevOps & Security
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
-
-**Practices:** JWT · AES-256-GCM · OWASP · Bcrypt.js · Rate Limiting · Helmet.js
 
 ### AI & Machine Learning
 
