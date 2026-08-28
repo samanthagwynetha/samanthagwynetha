@@ -11,7 +11,7 @@
 ## About Me
 
 * Passionate about real-world technology and full-stack development
-* QA Automation Engineer with a focus on reliable software
+* Curious about different areas of technology, open to learn something new
 * Learning by building, testing, and solving real-world problems
 
 ---
